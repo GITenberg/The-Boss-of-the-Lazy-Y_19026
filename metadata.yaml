@@ -23,6 +23,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Charles_Alden_Seltzer
 description: After 13 years of self-exile, Calumet rides back home to the Lazy Y to
   find the ranch in a state of disrepair.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19026#The-Boss-of-the-Lazy-Y
 gutenberg_issued: '2006-08-10'
 gutenberg_type: Text
 identifiers:
