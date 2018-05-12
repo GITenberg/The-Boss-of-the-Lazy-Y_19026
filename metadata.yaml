@@ -1,0 +1,38 @@
+_repo: The-Boss-of-the-Lazy-Y_19026
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: St. John, J. Allen (James Allen)
+    aliases:
+    - John, James Allen St.
+    - John, J. Allen St.
+    birthdate: 1872
+    deathdate: 1957
+    gutenberg_agent_id: '25193'
+    url: http://www.gutenberg.org/2009/agents/25193
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Seltzer, Charles Alden
+    birthdate: 1875
+    deathdate: 1942
+    gutenberg_agent_id: '6812'
+    url: http://www.gutenberg.org/2009/agents/6812
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Alden_Seltzer
+description: After 13 years of self-exile, Calumet rides back home to the Lazy Y to
+  find the ranch in a state of disrepair.
+gutenberg_issued: '2006-08-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19026'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Western stories'
+title: The Boss of the Lazy Y
+url: http://www.gutenberg.org/ebooks/19026
